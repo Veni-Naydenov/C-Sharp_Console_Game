@@ -1,0 +1,6 @@
+c:\users\vin7\documents\visual studio 2012\Projects\GameProject\GameProject\bin\Debug\GameProject.exe.config
+c:\users\vin7\documents\visual studio 2012\Projects\GameProject\GameProject\bin\Debug\GameProject.exe
+c:\users\vin7\documents\visual studio 2012\Projects\GameProject\GameProject\bin\Debug\GameProject.pdb
+c:\users\vin7\documents\visual studio 2012\Projects\GameProject\GameProject\obj\Debug\GameProject.csprojResolveAssemblyReference.cache
+c:\users\vin7\documents\visual studio 2012\Projects\GameProject\GameProject\obj\Debug\GameProject.exe
+c:\users\vin7\documents\visual studio 2012\Projects\GameProject\GameProject\obj\Debug\GameProject.pdb
